@@ -10,13 +10,13 @@ X3BL 研究室 https://hack-news.ols3.net/
 + 引用 Linux Tovalds 的 patch: https://github.com/ols3er/uemacs-tw/blob/main/util.c
 
 安裝法:
-git clone https://github.com/ols3er/uemacs-tw.git
-cd uemacs-tw
-make
-sudo make install
+- git clone https://github.com/ols3er/uemacs-tw.git
+- cd uemacs-tw
+- make
+- sudo make install
 
 執行:
-em sample.c 
+- em sample.c 
 
 ------
 已知問題:
