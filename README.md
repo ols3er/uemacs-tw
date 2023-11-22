@@ -1,6 +1,6 @@
 # uemacs-tw
 
-uemacs 中文版
+uemacs 中文可用版
 
 X3BL 研究室 https://hack-news.ols3.net/
 
